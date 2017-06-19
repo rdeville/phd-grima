@@ -1,5 +1,5 @@
 ### Programe name
-NAME = countPattern
+NAME = countPattern2D
 BIN  = bin/$(NAME)
 DATE = $(shell date +'%y.%m.%d-%H.%M.%S')
 
